@@ -23,17 +23,17 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: John Ensley
+title: Ben Straub
 description: ""
 keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name: John Ensley
+  name: Ben Straub
   job_title:
   location:
   email:
   social_links:
     - name: github
-      url: https://github.com/ensley/
+      url: https://github.com/bms63/
     - name: instagram
       url: https://instagram.com/john.ensley/
     - name: linkedin
